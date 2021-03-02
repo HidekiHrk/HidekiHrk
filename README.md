@@ -11,3 +11,5 @@ public class App {
 }
 ```
 _haha funny jokes_
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F7P50M)
