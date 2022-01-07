@@ -3,10 +3,14 @@
 [⚡hyper.is](https://hyper.is/) my religion<br/>
 [👤This](https://hidekihrk.github.io/) is my profile xD<br/>
 [👤And this](https://www.linkedin.com/in/rayan-santos-600311181/) is my linkedIn profile<br/>
-```java
-public class App {
-  public static void main(String[] args){
-    Year happy = new Year(2021);
+```csharp
+using System;
+
+namespace MainProgram {
+  class App {
+    static void Main(string[] args){
+      Year happy = new Year(2022);
+    }
   }
 }
 ```
