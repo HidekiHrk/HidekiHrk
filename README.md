@@ -9,7 +9,7 @@ using System;
 namespace MainProgram {
   class App {
     static void Main(string[] args){
-      Year happy = new Year(2023);
+      Year happy = new Year(2024);
     }
   }
 }
